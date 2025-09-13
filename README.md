@@ -1,6 +1,6 @@
 # 🐱 Court of Cats – A CK3 Flavor Mod (WIP)
 
-**Court of Cats** is a modular flavor mod for Crusader Kings III that explores the cultural, political, and mystical roles of cats throughout history. From divine reverence in ancient Egypt to feline court positions and dynastic traditions, this mod aims to bring depth and charm to rulers who walk the path of the paw.
+**Court of Cats** is a flavour mod for Crusader Kings III that explores the cultural, political, and mystical roles of cats throughout history. From divine reverence in ancient Egypt to feline court positions and dynastic traditions, this mod aims to bring depth and charm to rulers who walk the path of the paw.
 
 ## 🧱 Current Status
 This is a **work in progress**. Core systems are being prototyped, including traits, activities, and event chains. No playable content is currently included—this repo serves as the foundation for future development.
@@ -27,4 +27,4 @@ Attribution must include:
 - Reference to the original mod name: *Court of Cats*
 - Link to the official GitHub repository: [https://github.com/JexiDev/CK3-CourtofCats](https://github.com/JexiDev/CK3-CourtofCats)
 
-While Paradox Interactive owns the game engine and underlying systems, all original writing, flavor content, and modular design in this mod are the creative work of **JexiDev**.
+While Paradox Interactive owns the game engine and underlying systems, all original writing, flavour content, and other additional design elements in this mod are the creative work of **JexiDev**.
