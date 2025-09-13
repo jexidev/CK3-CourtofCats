@@ -1,0 +1,84 @@
+# Court of Cats – Expansion & Ideas
+# Keep this file ignored in Git (.gitignore)
+# Use this to brainstorm new features, mechanics, and events for the mod
+
+===========================
+TRAITS & MODIFIERS
+===========================
+
+Cat Enthusiast
+- Player has one or more cats
+- Bonus: stress reduction, fertility boost
+- Optional historical flavor: “Blessed by Bastet” (ancient Egypt)
+- Possible tie-in: plague immunity / reduced plague debuffs if Black Death occurs
+
+Royal Mouser
+- Court position
+- Passive bonuses to court morale or small events for cat-related mischief
+- Can interact with special guests in events
+
+Keeper of the Catnip
+- Court position
+- Provides small prestige or stability benefits
+- Could unlock unique activities/events for players
+
+===========================
+ACTIVITIES & DECISIONS
+===========================
+
+Host a Grand Cat Feast
+- Fully fleshed activity with multiple phases
+- Invite guests based on personality, loyalty, or rivalry
+- Optional locales: throne room, courtyard, cat sanctuary
+- Outcomes: reputation, intrigue, or stress modifications
+
+Other possible activities:
+- Cat Blessing Ceremony
+- Cat Hunt / Cat Tournament
+- Cat Parade (cultural flavor, boosts popularity)
+
+===========================
+EVENTS & STORYLINES
+===========================
+
+Auto-popup on first mod load:
+- Welcome the player to the “Court of Cats”
+- Introduce cat-themed court flavor
+- Suggest adopting first cat if none owned
+
+Plague-related events:
+- During Black Death:
+    - Characters with Cat Enthusiast trait and cats suffer less from plague effects
+    - Optional humorous flavor text: “Your feline companions keep the rats at bay.”
+
+Historical / cultural flavor:
+- Ancient Egypt: Bastet blessing events
+- Norse mythology: Cat-related omens or portents
+- Medieval superstition: Black cats as lucky or unlucky omens
+
+===========================
+GAMEPLAY MECHANICS
+===========================
+
+Guest mechanics:
+- Special guests for events (e.g., other cat-loving rulers)
+- AI considerations for attending events based on traits, loyalty, and relationships
+
+Cost mechanics:
+- Gold, prestige, renown, piety adjustments for hosting events
+- Optional minor resource cost for keeping cats and feeding them
+
+AI mechanics:
+- AI likelihood to host cat activities (weighted by traits)
+- AI behavior with cats affecting intrigue or relationships
+
+===========================
+MISCELLANEOUS IDEAS
+===========================
+
+- Tie expansions into future DLC mechanics
+- Optional cross-mod compatibility (Pets Expanded)
+- Seasonal events: spring cat festivals, harvest cats, etc.
+- Feline dynasty legacies: certain families are historically cat-loving
+
+# End of expansion ideas

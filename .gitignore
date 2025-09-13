@@ -1,0 +1,5 @@
+# Ignore all idea files
+ideas/
+
+# Or just a single file
+ideas/expansion.txt
