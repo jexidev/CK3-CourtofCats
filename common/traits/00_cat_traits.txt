@@ -2,6 +2,7 @@
 # Created by JexiDev
 
 cat_trait_enthusiast = {
+    # TODO: image, correct same_opinion section
     name = cat_enthusiast
     icon = "cat_enthusiast.dds" # Placeholder image - swap later
     category = personality
