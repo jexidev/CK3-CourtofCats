@@ -1,0 +1,26 @@
+﻿# traits for 'Court of Cats' mod 
+# Created by JexiDev
+
+cat_trait_enthusiast = {
+    name = cat_enthusiast
+    icon = "cat_enthusiast.dds" # Placeholder image - swap later
+    category = personality
+    is_good = yes
+    inheritable = no
+
+    desc = {
+    first_valid = {
+        triggered_desc = {
+            trigger = { NOT = { exists = this } }
+            desc = cat_enthusiast_desc
+        }
+        desc = cat_enthusiast_character_desc
+    }
+}
+
+    diplomacy = 1
+    same_opinion = 10
+    potential = { always = yes }
+    shown_in_encyclopedia = yes
+    shown_in_ruler_designer = yes
+}
