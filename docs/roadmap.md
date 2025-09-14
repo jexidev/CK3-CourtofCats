@@ -60,9 +60,9 @@ Stretch goals for future versions:
 
 ---
 
-## 🔖 Status Tags (Optional)
+## 🔖 Status Tags
 
-Use these tags to track progress across phases:
+May these tags to track progress across phases:
 
 - `@core` – foundational systems  
 - `@flavor` – immersive but optional  
