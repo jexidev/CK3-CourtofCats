@@ -1,7 +1,7 @@
 # Naming Conventions – Court of Cats
 
 ## Prefixes
-- Traits: `cat_trait_`
+- Traits: `cat_trait_<trait name>`
 - Modifiers: `cat_mod_`
 - Events: `court_of_cats.XXXX`
     - 1000-1999: Traits
