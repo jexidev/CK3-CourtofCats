@@ -1,0 +1,18 @@
+﻿cat_effect_create_cat = {
+	# Create new character - the players' cat
+	create_character = {
+		name = "Whiskers"
+		dna = cat_dna
+		dynasty = ROOT # The cat belongs to player dynasty
+		age = 1
+
+		add_trait = cat_trait_cat_pet # TODO: CREATE THIS TRAIT
+
+		opinion_of = {
+			target = ROOT
+			value = 100
+		}
+
+		add_to_court = ROOT
+	}
+}

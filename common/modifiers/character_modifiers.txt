@@ -1,0 +1,5 @@
+# Character modifiers for Court of Cats
+
+cat_mod_player_seen_welcome = {
+	hidden = yes
+}

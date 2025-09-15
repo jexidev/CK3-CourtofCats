@@ -1,1 +1,16 @@
-﻿
+﻿on_startup_player_first = {
+	# welcome message - display once and apply flag
+
+	effect = {
+		if = {
+			limit = {
+				NOT = { has_character_modifier = cat_mod_player_seen_welcome }
+			}
+			trigger_event = {
+				id = court_of_cats.4000
+				days = 2
+			}
+
+		}
+	}
+}
