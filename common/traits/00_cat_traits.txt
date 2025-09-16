@@ -8,6 +8,7 @@ cat_trait_cat_pet = {
 	is_inborn = yes
 	is_good = yes
 	is_selectable_in_ruler_designer = no
+
 	
 	category = genetic_animal
 	
@@ -19,7 +20,7 @@ cat_trait_cat_pet = {
 }
 
 cat_trait_enthusiast = {
-    # Trait indicating 
+    # Trait indicating player is a cat enthusiast
     name = cat_enthusiast
     icon = "cat_enthusiast.dds" # Placeholder image - swap later
     category = personality

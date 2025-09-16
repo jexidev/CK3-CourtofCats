@@ -6,12 +6,13 @@ court_of_cats.4000 = {
 
 	is_triggered_only = yes
 
-	immediate = {
-		add_character_modifier = cat_mod_player_seen_welcome
-		ROOT = {
-			cat_effect_create_cat
-		}
-	}
+immediate = {
+    ROOT = {
+        add_character_modifier = cat_mod_player_seen_welcome
+        cat_effect_create_cat
+    }
+}
+
 
 	title = cat_loc_event_welcome_title
 	desc = cat_loc_event_welcome_desc
@@ -20,7 +21,6 @@ court_of_cats.4000 = {
 	option = {
 		name = cat_loc_event_welcome_option
 		add_stress = -10
-		hide_event = yes
 	}
 }
 
