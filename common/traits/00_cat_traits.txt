@@ -1,8 +1,25 @@
 ﻿# traits for 'Court of Cats' mod 
 # Created by JexiDev
 
+cat_trait_cat_pet = {
+    # Trait indicating ruler has pet cat
+    icon = "cat_trait_cat_pet.dds"  # Placeholder image - swap later
+	is_genetic = no
+	is_inborn = yes
+	is_good = yes
+	is_selectable_in_ruler_designer = no
+	
+	category = genetic_animal
+	
+	male = "cat_pet_male"
+	female = "cat_pet_female"
+
+	# This is a crucial modifier that tells the game this character is an animal.
+	modifier = cat_mod_animal_pet
+}
+
 cat_trait_enthusiast = {
-    # TODO: image, correct same_opinion section
+    # Trait indicating 
     name = cat_enthusiast
     icon = "cat_enthusiast.dds" # Placeholder image - swap later
     category = personality

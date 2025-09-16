@@ -3,3 +3,7 @@
 cat_mod_player_seen_welcome = {
 	hidden = yes
 }
+
+cat_mod_animal_pet = {
+	is_animal = yes
+}

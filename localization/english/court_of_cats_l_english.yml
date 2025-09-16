@@ -1,0 +1,11 @@
+﻿l_english:
+ cat_loc_event_welcome_title:0 "A Feline Blessing"
+ cat_loc_event_welcome_desc:0 "As you sit on your throne, a small, curious cat saunters into the room. Its presence seems to fill the space with a sense of peace and warmth. A purr echoes through the silent chamber, a subtle sign of a new beginning."
+ cat_loc_event_welcome_option:0 "Welcome, little one."
+ cat_pet_male:0 "Cat"
+ cat_pet_female:0 "Cat"
+ cat_trait_cat_pet_desc:0 "This creature is a domestic feline, a beloved pet known for its grace and purring."
+ cat_mod_player_seen_welcome:0 "" 
+ cat_mod_player_seen_welcome_desc:0 ""
+ cat_mod_animal_pet:0 ""
+ cat_mod_animal_pet_desc:0 ""
